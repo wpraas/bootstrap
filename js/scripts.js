@@ -1,0 +1,10 @@
+$(document).ready(function(){
+		//LoginModal
+        $("#loginModal1").click(function(){
+			$('#loginModal').modal();
+			});
+		 //ReservationModal
+		 $("#reservation1").click(function(){
+			$('#reservation').modal();
+			});
+         });
