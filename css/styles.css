@@ -3,7 +3,7 @@ body {
   z-index: 0; }
 
 .navbar-inverse {
-  background-color: #512DA8; }
+  background-color: #2c3343; }
 
 hr {
   margin-top: 20px;
@@ -25,7 +25,7 @@ hr {
   border-bottom: 1px ridge; }
 
 .footer {
-  background-color: #D1C4E9;
+  background-color: #d8d7da;
   margin: 0px auto;
   padding: 20px 0px; }
 
@@ -36,7 +36,7 @@ hr {
   color: floralwhite; }
 
 .modal-header {
-  background: #512DA8;
+  background: #2c3343;
   color: floralwhite; }
   .modal-header .close {
     color: floralwhite; }
@@ -57,7 +57,7 @@ body {
   z-index: 0; }
 
 .navbar-inverse {
-  background-color: #512DA8; }
+  background-color: #2c3343; }
 
 .tab-content {
   border-left: 1px solid #ddd;
@@ -66,7 +66,7 @@ body {
   padding: 10px; }
 
 .carousel {
-  background: #512DA8; }
+  background: #2c3343; }
   .carousel .carousel-item {
     height: 300px; }
     .carousel .carousel-item img {
